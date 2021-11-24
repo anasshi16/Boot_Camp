@@ -3,7 +3,7 @@
 
 ### Скопируйте данный репозиторий в свой аккаунт
 * Кликните **Fork** кнопку в правом верхнем углу данной страницы и репозиторий будет скопирован в ваш аккаунт.
-* Выполните в консоли команду `git clone https://github.com/<your-account>/Summer_Bootcamp_2021.git`, где *your-account* - это имя вашего аккаунта в GitHub.
+* Выполните в консоли команду `git clone https://github.com/<your-account>/Boot_Camp.git`, где *your-account* - это имя вашего аккаунта в GitHub.
 
 ### Настройте рабочее окружение
 * Скачайте и установите последнюю версию [Nodejs](https://nodejs.org/en/download/stable/).
